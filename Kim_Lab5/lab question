@@ -1,0 +1,11 @@
+Lab Question 1
+__row_as_string
+__three_in_row
+__is_winner
+
+Lab Question 2
+self.__board
+
+Lab Question 3
+With the given rows, lists of 'O' and 'X' are appended to the board, but it appears as X | O | X with new lines
+in the Tictactoe_board object.
